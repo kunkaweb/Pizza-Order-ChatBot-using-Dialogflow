@@ -1,13 +1,9 @@
 # Pizza-Order-ChatBot-using-Dialogflow
-The chat bot can accept pizza and drinks orders from the users and store them in the google cloud datastore. 
+O chatbot recebe pedidos de pizza e bebidas de usuários e armazena-os na Google Cloud Datastore.
 
-## Get it working:
--Clone the repository
-
--Zip the file
-
--Open dialogflow console
-
--Import the agent through settings option
-
--Test your bot
+## Como executar o modelo:
+- Clone este repositório
+- Compacte os arquivos em um ZIP
+- Abra o console do [Dialogflow](https://dialogflow.cloud.google.com/)
+- Importe o arquivo ZIP nas configurações de um novo agente
+- Execute o chatbot
